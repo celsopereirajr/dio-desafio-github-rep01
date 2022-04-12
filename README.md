@@ -1,2 +1,6 @@
-# dio-desafio-github-rep01
-Desafio de projeto sobre Git/GitHub
+# Desafio de projeto sobre Git/GitHub
+Repositório criado para o desafio de projeto. Bootcamp Philips
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
